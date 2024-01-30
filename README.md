@@ -1,2 +1,3 @@
-# ola-mundo
- primeiro repositorio
+# olá, mundo!
+ primeiro repósitorio durante uma aula ao vivo
+ 
